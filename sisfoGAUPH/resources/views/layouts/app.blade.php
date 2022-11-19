@@ -1,7 +1,3 @@
-<!--
-//Nama : MahesYaputra
-//StudentID : 03081200047
--->
 <!DOCTYPE html>
 <html lang="en">
 
